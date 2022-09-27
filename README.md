@@ -1,5 +1,6 @@
 ### Hi there 👋, Hola! Soy agustin, Full-Stack Developer 
-![what-is-a-web-developer](https://user-images.githubusercontent.com/71356888/192653787-cf42d28e-2694-4f54-b6ea-db54308dfe92.jpg)
+
+![what-is-a-web-developer](https://user-images.githubusercontent.com/71356888/192654241-98a3c397-d998-4eae-98dd-8e10e750beca.jpg)
 
 
 Soy desarrollador Full-Stack mas enfocado en el Front-end, cuento con conocimientos en Javascript, ReactJs y Redux ,como tambien conocimientos del backend, como Express, PosgresSQL, Sequileze, MongoDB entre otras. Me gustaría encontrar una empresa en donde pueda aportar mis conocimientos y aprender nuevas tecnologias, ya que deseo estar en constante crecimiento profesional. Me caracterizo por ser una persona amigable, de fácil adaptación en equipos nuevos o establecidos. Me considero proactivo y responsable con mis deberes.
